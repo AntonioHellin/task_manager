@@ -85,7 +85,3 @@ Execute the unit tests using Python's built-in `unittest` runner:
 ```bash
 python -m unittest test_task_manager.py
 ```
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
