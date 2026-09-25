@@ -23,7 +23,7 @@ A CLI task management utility featuring JSON persistence and automated complex t
 
 1. Clone the repository locally:
    ```bash
-   git clone https://github.com/AntonioHellin/task_manager.git ai-task-manager
+   git clone https://github.com/AntonioHellin/ai-task-manager.git
    cd ai-task-manager
    ```
 
